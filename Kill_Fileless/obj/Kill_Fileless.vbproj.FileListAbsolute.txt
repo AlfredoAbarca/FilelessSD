@@ -1,0 +1,9 @@
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\bin\Debug\Kill_Fileless.exe
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\bin\Debug\Kill_Fileless.pdb
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\bin\Debug\Kill_Fileless.xml
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\Kill_Fileless.Resources.resources
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\Kill_Fileless.vbproj.GenerateResource.Cache
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\Kill_Fileless.exe
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\Kill_Fileless.xml
+C:\Users\aabarca\Documents\Visual Studio 2005\Projects\Kill_Fileless\Kill_Fileless\obj\Debug\Kill_Fileless.pdb
